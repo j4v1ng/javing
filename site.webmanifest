@@ -1,0 +1,13 @@
+{
+  "short_name": "Javing",
+  "name": "Javing - Java & Kotlin Consultancy",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#0D3364",
+  "display": "standalone"
+}
